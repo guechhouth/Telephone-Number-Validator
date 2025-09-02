@@ -26,12 +26,13 @@ body{
 }
 
 #check-btn, #clear-btn{
-  margin-top: 20px;
+  padding-top: 20px;
   height: 30px;
   width: 100px;
 }
 #results-div{
   color: black;
+  padding-top: 20px;
 }
 
 //can add @media to make it more responsive 
